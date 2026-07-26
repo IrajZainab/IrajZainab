@@ -89,4 +89,4 @@ AI & Automation
 ![Reddit](https://www.reddit.com/u/Iraj_Zainab/)
 ![Email](mailto:irajzainab9@gmail.com)
 </div>
-<img src="https://capsule-render.vercel.app/api?type=waving\\\\\\\\\\\\\\\&color=D4AF37\\\\\\\\\\\\\\\&height=120\\\\\\\\\\\\\\\&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving\\\\\\\\\\\\\\\&color=D4AF37\\\\\\\\\\\\\\\&height=120\\\\\\\\\\\\\\\&section=footer" width="100%"/> 
