@@ -1,76 +1,72 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=220&section=header&text=Iraj%20Zainab&fontSize=48&fontColor=0b1020&animation=twinkling&fontAlignY=35&desc=Digital%20Marketing%20Enthusiast%20%7C%20AI%20Automation%20Learner%20%7C%20SEO%20%7C%20Meta%20Ads%20%7C%20Google%20Ads&descAlignY=55&descSize=16&descColor=0b1020" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:A855F7,100:9333EA&height=220&section=header&text=Iraj%20Zainab&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Digital%20Marketing%20Enthusiast%20%7C%20AI%20Automation%20Learner%20%7C%20SEO%20%7C%20Meta%20Ads%20%7C%20Google%20Ads&descAlignY=55&descSize=16&descColor=ffffff" width="100%"/>
 <a href="https://github.com/IrajZainab">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=7DD3FC&center=true&vCenter=true&width=560&lines=SEO+%7C+Meta+Ads+%7C+Google+Ads;AI+Automation+%26+Prompt+Engineering;Turning+Data+Into+Growth" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=9333EA&center=true&vCenter=true&width=560&lines=SEO+%7C+Meta+Ads+%7C+Google+Ads;AI+Automation+%26+Prompt+Engineering;Turning+Data+Into+Growth" />
 </a>
-<img src="https://img.shields.io/badge/Open%20to%20Work-7dd3fc?style=for-the-badge&logo=briefcase&logoColor=0b1020"/>
-<img src="https://komarev.com/ghpvc/?username=IrajZainab&color=7dd3fc&style=for-the-badge&label=PROFILE+VIEWS"/>
-<img src="https://img.shields.io/github/followers/IrajZainab?style=for-the-badge&color=7dd3fc&labelColor=0b1020&label=FOLLOWERS"/>
+<img src="https://img.shields.io/badge/Open%20to%20Work-9333EA?style=for-the-badge&logo=briefcase&logoColor=white"/>
+<img src="https://komarev.com/ghpvc/?username=IrajZainab&color=9333EA&style=for-the-badge&label=PROFILE+VIEWS"/>
+<img src="https://img.shields.io/github/followers/IrajZainab?style=for-the-badge&color=9333EA&labelColor=white&label=FOLLOWERS"/>
+📍 Punjab, Pakistan
 </div>
 <br>
 🧾 Who I Am
 ```ts
 const irajZainab = {
   title: "Digital Marketing Enthusiast | AI Automation Learner | SEO | Meta Ads | Google Ads",
-  stack: {
-    digitalMarketing: [
-      "SEO", "Meta Ads", "Google Ads", "Social Media Marketing",
-      "Content Marketing", "Keyword Research", "Lead Generation",
-      "Marketing Analytics", "Conversion Optimization"
-    ],
-    aiAndAutomation: ["AI Automation", "Prompt Engineering"],
-    tools: ["Google Analytics", "Google Search Console", "WordPress", "Canva", "Git", "GitHub"]
-  },
-  launchedProjects: [
-    "Digital Marketing Portfolio",
-    "AI Automation Project"
+  skills: [
+    "SEO", "Meta Ads", "Google Ads", "Content Marketing",
+    "Email Marketing", "Analytics", "Keyword Research"
   ],
-  certifications: [], // add yours here as you earn them
-  currentlyLearning: ["JavaScript", "HTML", "CSS", "Python"],
-  status: "Open to Work",
-  openTo: ["Digital Marketing Roles", "SEO Projects", "AI Automation Collaborations"]
+  tools: ["Google Analytics", "Search Console", "WordPress", "Canva", "Git", "GitHub"],
+  currentlyLearning: ["JavaScript", "HTML", "CSS", "Python", "AI Automation", "Prompt Engineering"],
+  status: "Open to Work"
 };
 ```
 <br>
 🚀 Featured Projects
 📁 Digital Marketing Portfolio
 A showcase of SEO audits, Meta Ads strategies, Google Ads campaigns, and marketing case studies.
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=IrajZainab&repo=digital-marketing-portfolio&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9"/>
-Layer	Technology
-Strategy	SEO, Keyword Research
-Paid Media	Meta Ads, Google Ads
-Analytics	Google Analytics, Search Console
-Content	Content Marketing, Canva
 💻 Code
 📁 AI Automation Project
 AI-powered workflows and prompt-engineered automation for repetitive marketing tasks.
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=IrajZainab&repo=ai-automation-project&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9"/>
-Layer	Technology
-Automation	AI Automation
-Prompting	Prompt Engineering
-Delivery	WordPress
 💻 Code
 <br>
-🛠️ Tech Stack
+🎨 Skills & Tools
+Digital Marketing
+![SEO](https://img.shields.io/badge/SEO-9333EA?style=for-the-badge)
+![Meta Ads](https://img.shields.io/badge/Meta_Ads-9333EA?style=for-the-badge&logo=meta&logoColor=white)
+![Google Ads](https://img.shields.io/badge/Google_Ads-9333EA?style=for-the-badge&logo=googleads&logoColor=white)
+![Content Marketing](https://img.shields.io/badge/Content_Marketing-9333EA?style=for-the-badge)
+![Email Marketing](https://img.shields.io/badge/Email_Marketing-9333EA?style=for-the-badge)
+![Analytics](https://img.shields.io/badge/Analytics-9333EA?style=for-the-badge)
+![Keyword Research](https://img.shields.io/badge/Keyword_Research-9333EA?style=for-the-badge)
+Tools
+![Google Analytics](https://img.shields.io/badge/Google_Analytics-A855F7?style=for-the-badge&logo=googleanalytics&logoColor=white)
+![Search Console](https://img.shields.io/badge/Search_Console-A855F7?style=for-the-badge&logo=googlesearchconsole&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-A855F7?style=for-the-badge&logo=wordpress&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-A855F7?style=for-the-badge&logo=canva&logoColor=white)
+![Git](https://img.shields.io/badge/Git-A855F7?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-A855F7?style=for-the-badge&logo=github&logoColor=white)
 Currently Learning
-<img src="https://skillicons.dev/icons?i=js,html,css,py"/>
-Dev Tools
-<img src="https://skillicons.dev/icons?i=git,github,wordpress"/>
+![JavaScript](https://img.shields.io/badge/JavaScript-9333EA?style=for-the-badge&logo=javascript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-9333EA?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-9333EA?style=for-the-badge&logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/Python-9333EA?style=for-the-badge&logo=python&logoColor=white)
+![AI Automation](https://img.shields.io/badge/AI_Automation-9333EA?style=for-the-badge)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-9333EA?style=for-the-badge)
 <br>
 📊 GitHub Stats
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=IrajZainab&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=c9d1d9" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IrajZainab&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9" height="165"/>
-<img src="https://streak-stats.demolab.com/?user=IrajZainab&theme=nord&border=7dd3fc&ring=7dd3fc&fire=7dd3fc&currStreakLabel=7dd3fc"/>
-<img src="https://github-profile-trophy.vercel.app/?username=IrajZainab&theme=nord&no-frame=true&no-bg=true&row=1&column=7"/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=IrajZainab&theme=nord&color=7dd3fc&line=7dd3fc&point=ffffff&area=true&hide_border=true" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=IrajZainab&show_icons=true&theme=default&bg_color=ffffff&title_color=9333EA&icon_color=A855F7&text_color=1f2937&border_color=9333EA" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IrajZainab&layout=compact&theme=default&bg_color=ffffff&title_color=9333EA&text_color=1f2937&border_color=9333EA" height="165"/>
 </div>
 <br>
 🤝 Connect With Me
 <div align="center">
-<a href="https://www.linkedin.com/in/iraj-zainab/"><img src="https://img.shields.io/badge/LinkedIn-7dd3fc?style=for-the-badge&logo=linkedin&logoColor=0b1020"/></a>
-<a href="https://x.com/IrajZainab"><img src="https://img.shields.io/badge/X-7dd3fc?style=for-the-badge&logo=x&logoColor=0b1020"/></a>
-<a href="https://www.instagram.com/iraj_zainab"><img src="https://img.shields.io/badge/Instagram-7dd3fc?style=for-the-badge&logo=instagram&logoColor=0b1020"/></a>
-<a href="mailto:irajzainab9@gmail.com"><img src="https://img.shields.io/badge/Email-7dd3fc?style=for-the-badge&logo=gmail&logoColor=0b1020"/></a>
+<a href="https://www.linkedin.com/in/iraj-zainab/"><img src="https://img.shields.io/badge/LinkedIn-9333EA?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://x.com/IrajZainab"><img src="https://img.shields.io/badge/X-9333EA?style=for-the-badge&logo=x&logoColor=white"/></a>
+<a href="https://www.instagram.com/iraj_zainab"><img src="https://img.shields.io/badge/Instagram-9333EA?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="mailto:irajzainab9@gmail.com"><img src="https://img.shields.io/badge/Email-9333EA?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </div>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=120&section=footer" width="100%"/>
+<br>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:9333EA,100:A855F7&height=120&section=footer" width="100%"/>
