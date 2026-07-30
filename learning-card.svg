@@ -1,0 +1,60 @@
+<svg width="1200" height="220" viewBox="0 0 1200 220" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Sora:wght@700&amp;family=Inter:wght@500;600&amp;display=swap');
+      .disp{font-family:'Sora',sans-serif;}
+      .body{font-family:'Inter',sans-serif;}
+    </style>
+    <linearGradient id="bgL" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#160b28"/>
+      <stop offset="100%" stop-color="#0a0714"/>
+    </linearGradient>
+    <linearGradient id="barGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#7C3AED"/>
+      <stop offset="100%" stop-color="#67e8f9"/>
+    </linearGradient>
+    <filter id="barGlow" x="-30%" y="-100%" width="160%" height="300%">
+      <feGaussianBlur stdDeviation="3"/>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="220" rx="20" fill="url(#bgL)"/>
+  <text x="48" y="46" class="disp" font-size="20" font-weight="700" fill="#e9d5ff">📚 Currently Learning</text>
+
+  <g class="body" font-size="14" fill="#e5e7eb">
+    <!-- AI Automation 85% -->
+    <text x="48" y="82">AI Automation</text>
+    <rect x="320" y="70" width="760" height="10" rx="5" fill="#ffffff" fill-opacity="0.08"/>
+    <rect x="320" y="70" width="646" height="10" rx="5" fill="url(#barGrad)" filter="url(#barGlow)"/>
+    <rect x="320" y="70" width="646" height="10" rx="5" fill="url(#barGrad)"/>
+    <text x="1090" y="79" text-anchor="end" fill="#c084fc">85%</text>
+
+    <!-- Prompt Engineering 80% -->
+    <text x="48" y="112">Prompt Engineering</text>
+    <rect x="320" y="100" width="760" height="10" rx="5" fill="#ffffff" fill-opacity="0.08"/>
+    <rect x="320" y="100" width="608" height="10" rx="5" fill="url(#barGrad)" filter="url(#barGlow)"/>
+    <rect x="320" y="100" width="608" height="10" rx="5" fill="url(#barGrad)"/>
+    <text x="1090" y="109" text-anchor="end" fill="#c084fc">80%</text>
+
+    <!-- Marketing Strategy 75% -->
+    <text x="48" y="142">Marketing Strategy</text>
+    <rect x="320" y="130" width="760" height="10" rx="5" fill="#ffffff" fill-opacity="0.08"/>
+    <rect x="320" y="130" width="570" height="10" rx="5" fill="url(#barGrad)" filter="url(#barGlow)"/>
+    <rect x="320" y="130" width="570" height="10" rx="5" fill="url(#barGrad)"/>
+    <text x="1090" y="139" text-anchor="end" fill="#c084fc">75%</text>
+
+    <!-- Git & GitHub 70% -->
+    <text x="48" y="172">Git &amp; GitHub</text>
+    <rect x="320" y="160" width="760" height="10" rx="5" fill="#ffffff" fill-opacity="0.08"/>
+    <rect x="320" y="160" width="532" height="10" rx="5" fill="url(#barGrad)" filter="url(#barGlow)"/>
+    <rect x="320" y="160" width="532" height="10" rx="5" fill="url(#barGrad)"/>
+    <text x="1090" y="169" text-anchor="end" fill="#c084fc">70%</text>
+
+    <!-- JavaScript 60% -->
+    <text x="48" y="202">JavaScript</text>
+    <rect x="320" y="190" width="760" height="10" rx="5" fill="#ffffff" fill-opacity="0.08"/>
+    <rect x="320" y="190" width="456" height="10" rx="5" fill="url(#barGrad)" filter="url(#barGlow)"/>
+    <rect x="320" y="190" width="456" height="10" rx="5" fill="url(#barGrad)"/>
+    <text x="1090" y="199" text-anchor="end" fill="#c084fc">60%</text>
+  </g>
+</svg>

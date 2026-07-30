@@ -1,0 +1,63 @@
+<svg width="1200" height="320" viewBox="0 0 1200 320" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Sora:wght@700&amp;family=Inter:wght@400;600&amp;display=swap');
+      .disp{font-family:'Sora',sans-serif;}
+      .body{font-family:'Inter',sans-serif;}
+    </style>
+    <linearGradient id="bg3" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#170a2a"/>
+      <stop offset="100%" stop-color="#0d0817"/>
+    </linearGradient>
+    <linearGradient id="cardStroke" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#c084fc" stop-opacity="0.4"/>
+      <stop offset="100%" stop-color="#818cf8" stop-opacity="0.15"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="320" rx="20" fill="url(#bg3)"/>
+  <text x="48" y="46" class="disp" font-size="22" font-weight="700" fill="#e9d5ff">🚀 Featured Projects</text>
+
+  <!-- 6 cards, 3 columns x 2 rows -->
+  <g class="body">
+    <!-- card template positions -->
+    <!-- row1 -->
+    <g transform="translate(48,64)">
+      <rect width="360" height="112" rx="14" fill="#ffffff" fill-opacity="0.05" stroke="url(#cardStroke)"/>
+      <text x="18" y="30" font-size="15" font-weight="600" fill="#f3e8ff">📈 Digital Marketing Portfolio</text>
+      <text x="18" y="52" font-size="12" fill="#a78bfa">Case studies &amp; marketing strategy showcase</text>
+      <text x="18" y="90" font-size="12" fill="#67e8f9">💻 View Repo →</text>
+    </g>
+    <g transform="translate(420,64)">
+      <rect width="360" height="112" rx="14" fill="#ffffff" fill-opacity="0.05" stroke="url(#cardStroke)"/>
+      <text x="18" y="30" font-size="15" font-weight="600" fill="#f3e8ff">🔍 SEO Audit Project</text>
+      <text x="18" y="52" font-size="12" fill="#a78bfa">Technical, on-page &amp; competitor research</text>
+      <text x="18" y="90" font-size="12" fill="#67e8f9">💻 View Repo →</text>
+    </g>
+    <g transform="translate(792,64)">
+      <rect width="360" height="112" rx="14" fill="#ffffff" fill-opacity="0.05" stroke="url(#cardStroke)"/>
+      <text x="18" y="30" font-size="15" font-weight="600" fill="#f3e8ff">🎯 Google Ads Campaign</text>
+      <text x="18" y="52" font-size="12" fill="#a78bfa">Lead-gen campaign with high conversions</text>
+      <text x="18" y="90" font-size="12" fill="#67e8f9">💻 View Repo →</text>
+    </g>
+    <!-- row2 -->
+    <g transform="translate(48,192)">
+      <rect width="360" height="112" rx="14" fill="#ffffff" fill-opacity="0.05" stroke="url(#cardStroke)"/>
+      <text x="18" y="30" font-size="15" font-weight="600" fill="#f3e8ff">♾️ Meta Ads Campaign</text>
+      <text x="18" y="52" font-size="12" fill="#a78bfa">Brand awareness &amp; lead generation</text>
+      <text x="18" y="90" font-size="12" fill="#67e8f9">💻 View Repo →</text>
+    </g>
+    <g transform="translate(420,192)">
+      <rect width="360" height="112" rx="14" fill="#ffffff" fill-opacity="0.05" stroke="url(#cardStroke)"/>
+      <text x="18" y="30" font-size="15" font-weight="600" fill="#f3e8ff">🤖 AI Automation Project</text>
+      <text x="18" y="52" font-size="12" fill="#a78bfa">Prompt-engineered marketing workflows</text>
+      <text x="18" y="90" font-size="12" fill="#67e8f9">💻 View Repo →</text>
+    </g>
+    <g transform="translate(792,192)">
+      <rect width="360" height="112" rx="14" fill="#ffffff" fill-opacity="0.05" stroke="url(#cardStroke)"/>
+      <text x="18" y="30" font-size="15" font-weight="600" fill="#f3e8ff">🚀 Future SaaS Projects</text>
+      <text x="18" y="52" font-size="12" fill="#a78bfa">Early-stage marketing + AI SaaS ideas</text>
+      <text x="18" y="90" font-size="12" fill="#67e8f9">💻 View Repo →</text>
+    </g>
+  </g>
+</svg>
