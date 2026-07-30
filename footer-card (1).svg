@@ -1,0 +1,42 @@
+<svg width="1200" height="260" viewBox="0 0 1200 260" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Sora:wght@700&amp;family=Inter:wght@400;500;600&amp;display=swap');
+      .disp{font-family:'Sora',sans-serif;}
+      .body{font-family:'Inter',sans-serif;}
+    </style>
+    <linearGradient id="bg4" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#160b28"/>
+      <stop offset="100%" stop-color="#0d0817"/>
+    </linearGradient>
+    <linearGradient id="quoteStroke" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#c084fc"/>
+      <stop offset="100%" stop-color="#818cf8"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="260" rx="20" fill="url(#bg4)"/>
+  <line x1="620" y1="30" x2="620" y2="150" stroke="#ffffff" stroke-opacity="0.08"/>
+
+  <text x="48" y="46" class="disp" font-size="20" font-weight="700" fill="#e9d5ff">✨ Fun Facts</text>
+  <g class="body" font-size="14" fill="#e5e7eb">
+    <text x="48" y="78">☕ Fueled by coffee &amp; big goals</text>
+    <text x="48" y="104">🔥 Believe in consistency over motivation</text>
+    <text x="48" y="130">🌱 Learning something new every day</text>
+  </g>
+
+  <text x="660" y="46" class="disp" font-size="20" font-weight="700" fill="#e9d5ff">🤝 Connect</text>
+  <g class="body" font-size="14" fill="#e5e7eb">
+    <text x="660" y="78">📧 irajzainab9@gmail.com</text>
+    <text x="660" y="104">💼 linkedin.com/in/iraj-zainab</text>
+    <text x="660" y="130">🐦 @IrajZainab   ·   📸 @iraj_zainab</text>
+  </g>
+
+  <rect x="48" y="172" width="1104" height="2" fill="#ffffff" fill-opacity="0.08"/>
+
+  <g class="body" text-anchor="middle">
+    <text x="600" y="210" font-size="15" font-style="italic" fill="#e9d5ff">"Striving to become the best version of myself and help businesses grow</text>
+    <text x="600" y="230" font-size="15" font-style="italic" fill="#e9d5ff">with smart marketing and automation."</text>
+    <text x="600" y="252" font-size="13" font-weight="600" fill="url(#quoteStroke)">— Iraj Zainab</text>
+  </g>
+</svg>
